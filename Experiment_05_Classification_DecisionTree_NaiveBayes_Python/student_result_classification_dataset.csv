@@ -1,0 +1,501 @@
+student_id,age,class,section,study_hours_per_week,attendance_pct,subject,city,Result_Category
+STU_0001,18,FY,A,35.0,61.0,Data Mining,Pune,Pass
+STU_0002,20,TY,C,17.6,65.4,Software Eng,Navi Mumbai,Pass
+STU_0003,21,TY,C,3.3,58.6,DBMS,Nashik,Fail
+STU_0004,22,SY,A,3.7,57.3,Software Eng,Navi Mumbai,Fail
+STU_0005,19,SY,A,12.1,89.0,Data Mining,Navi Mumbai,Pass
+STU_0006,20,TY,A,9.9,54.3,DBMS,Pune,Pass
+STU_0007,19,SY,A,12.0,51.9,Computer Networks,Navi Mumbai,Fail
+STU_0008,23,FY,B,29.0,92.2,Operating Systems,Mumbai,Pass
+STU_0009,23,SY,B,12.4,51.7,Software Eng,Navi Mumbai,Fail
+STU_0010,21,SY,A,17.9,74.1,Data Mining,Thane,Pass
+STU_0011,22,SY,B,21.5,78.7,Data Mining,Pune,Pass
+STU_0012,23,SY,B,12.7,63.7,Data Mining,Mumbai,Pass
+STU_0013,23,FY,B,12.8,73.1,Software Eng,Navi Mumbai,Pass
+STU_0014,21,FY,C,33.0,58.1,Software Eng,Pune,Fail
+STU_0015,23,SY,B,21.2,70.9,Data Mining,Nashik,Pass
+STU_0016,22,SY,A,17.8,79.1,Computer Networks,Mumbai,Pass
+STU_0017,20,FY,C,2.9,78.1,Computer Networks,Nashik,Fail
+STU_0018,19,SY,A,14.0,59.5,Computer Networks,Thane,Pass
+STU_0019,21,SY,A,3.9,84.8,Computer Networks,Pune,Pass
+STU_0020,22,TY,A,23.6,88.4,Operating Systems,Thane,Pass
+STU_0021,23,TY,C,4.3,73.6,DBMS,Mumbai,Fail
+STU_0022,18,FY,B,16.1,88.3,Computer Networks,Nashik,Fail
+STU_0023,23,FY,B,6.9,90.0,Software Eng,Thane,Fail
+STU_0024,23,TY,C,10.8,81.6,Computer Networks,Navi Mumbai,Pass
+STU_0025,20,FY,C,34.6,50.6,Software Eng,Mumbai,Fail
+STU_0026,23,SY,A,9.7,54.1,Data Mining,Navi Mumbai,Fail
+STU_0027,21,SY,A,4.6,80.9,Data Mining,Nashik,Pass
+STU_0028,21,SY,A,13.0,67.1,Data Mining,Mumbai,Pass
+STU_0029,22,TY,C,34.7,50.5,Operating Systems,Thane,Pass
+STU_0030,22,SY,C,2.9,54.9,Operating Systems,Navi Mumbai,Fail
+STU_0031,21,FY,A,34.2,83.4,Software Eng,Nashik,Pass
+STU_0032,23,FY,C,3.6,87.0,Operating Systems,Navi Mumbai,Pass
+STU_0033,22,SY,C,17.8,50.3,Operating Systems,Pune,Pass
+STU_0034,22,FY,A,12.8,68.8,Software Eng,Nashik,Fail
+STU_0035,23,SY,A,26.6,87.7,Operating Systems,Mumbai,Pass
+STU_0036,23,FY,A,23.6,45.1,Software Eng,Navi Mumbai,Pass
+STU_0037,19,FY,A,20.2,64.4,Software Eng,Nashik,Pass
+STU_0038,18,TY,A,13.8,96.2,Software Eng,Nashik,Pass
+STU_0039,23,SY,B,34.3,94.4,Computer Networks,Thane,Pass
+STU_0040,22,TY,C,22.7,85.6,Operating Systems,Thane,Pass
+STU_0041,19,FY,B,2.7,68.8,DBMS,Navi Mumbai,Fail
+STU_0042,23,FY,B,16.7,56.9,Computer Networks,Nashik,Fail
+STU_0043,20,SY,B,27.3,67.4,Operating Systems,Navi Mumbai,Pass
+STU_0044,22,TY,B,10.4,50.1,Software Eng,Thane,Fail
+STU_0045,23,SY,A,24.0,79.8,Operating Systems,Thane,Pass
+STU_0046,20,SY,C,4.2,74.0,Data Mining,Pune,Fail
+STU_0047,20,SY,C,25.6,62.1,Software Eng,Navi Mumbai,Fail
+STU_0048,21,SY,B,15.1,60.3,Software Eng,Thane,Pass
+STU_0049,22,FY,B,16.5,69.2,Operating Systems,Navi Mumbai,Pass
+STU_0050,22,TY,A,22.5,51.5,DBMS,Mumbai,Fail
+STU_0051,18,FY,B,24.9,86.9,Operating Systems,Nashik,Pass
+STU_0052,19,TY,C,26.7,90.2,DBMS,Navi Mumbai,Pass
+STU_0053,18,SY,C,7.9,62.8,Software Eng,Thane,Fail
+STU_0054,22,SY,C,7.6,96.5,Computer Networks,Nashik,Pass
+STU_0055,23,SY,C,29.0,78.9,Computer Networks,Thane,Pass
+STU_0056,20,SY,A,31.3,84.6,Operating Systems,Pune,Pass
+STU_0057,18,SY,B,22.1,71.1,Data Mining,Pune,Pass
+STU_0058,22,SY,C,19.6,49.3,Computer Networks,Pune,Fail
+STU_0059,20,TY,B,29.4,58.6,Data Mining,Pune,Fail
+STU_0060,19,FY,A,11.1,54.8,Computer Networks,Nashik,Pass
+STU_0061,23,FY,B,21.8,57.8,Software Eng,Mumbai,Pass
+STU_0062,19,TY,C,34.6,70.2,Computer Networks,Mumbai,Pass
+STU_0063,18,FY,A,16.5,88.5,Computer Networks,Thane,Pass
+STU_0064,19,FY,A,33.9,46.3,Software Eng,Mumbai,Fail
+STU_0065,20,TY,A,25.4,55.7,Operating Systems,Mumbai,Pass
+STU_0066,22,FY,B,34.3,63.5,Data Mining,Navi Mumbai,Pass
+STU_0067,21,FY,B,7.2,47.3,Data Mining,Mumbai,Fail
+STU_0068,22,TY,B,9.6,81.2,Computer Networks,Pune,Fail
+STU_0069,20,SY,A,24.3,64.0,Data Mining,Mumbai,Fail
+STU_0070,18,SY,B,13.4,86.5,DBMS,Navi Mumbai,Pass
+STU_0071,21,TY,C,33.1,84.7,Computer Networks,Pune,Pass
+STU_0072,19,SY,B,20.2,94.9,DBMS,Thane,Pass
+STU_0073,21,SY,B,12.8,75.1,DBMS,Nashik,Pass
+STU_0074,18,SY,B,3.8,75.6,Operating Systems,Navi Mumbai,Fail
+STU_0075,20,TY,C,29.9,58.6,DBMS,Thane,Pass
+STU_0076,22,FY,B,6.0,66.9,Operating Systems,Pune,Fail
+STU_0077,23,TY,B,25.6,72.4,DBMS,Thane,Pass
+STU_0078,21,TY,A,21.5,74.1,Software Eng,Nashik,Pass
+STU_0079,20,SY,B,27.8,87.6,Software Eng,Nashik,Pass
+STU_0080,18,TY,C,25.8,55.8,Operating Systems,Pune,Fail
+STU_0081,21,TY,B,31.9,56.2,Software Eng,Navi Mumbai,Fail
+STU_0082,23,TY,C,18.6,53.3,Operating Systems,Nashik,Fail
+STU_0083,19,TY,B,17.2,45.6,Software Eng,Pune,Fail
+STU_0084,23,TY,C,27.9,52.1,Computer Networks,Thane,Pass
+STU_0085,22,FY,B,8.4,90.3,Computer Networks,Mumbai,Fail
+STU_0086,18,SY,A,24.3,80.1,DBMS,Mumbai,Pass
+STU_0087,21,FY,C,33.0,66.0,Data Mining,Pune,Pass
+STU_0088,19,TY,B,26.1,70.8,Software Eng,Nashik,Fail
+STU_0089,22,TY,C,9.2,93.1,Operating Systems,Nashik,Fail
+STU_0090,18,TY,B,10.4,48.9,Software Eng,Nashik,Fail
+STU_0091,21,TY,A,33.0,50.1,Operating Systems,Thane,Fail
+STU_0092,23,TY,C,4.8,56.1,DBMS,Navi Mumbai,Pass
+STU_0093,22,FY,A,8.1,65.4,DBMS,Thane,Pass
+STU_0094,18,FY,B,13.9,97.5,Software Eng,Pune,Pass
+STU_0095,21,TY,A,33.3,66.6,Software Eng,Thane,Pass
+STU_0096,22,FY,A,20.2,67.6,Software Eng,Nashik,Pass
+STU_0097,23,TY,C,10.5,47.6,DBMS,Mumbai,Fail
+STU_0098,19,TY,B,22.7,71.4,Data Mining,Thane,Pass
+STU_0099,21,TY,A,17.1,70.4,Data Mining,Pune,Pass
+STU_0100,22,FY,A,3.9,90.3,Computer Networks,Nashik,Fail
+STU_0101,21,FY,C,6.1,56.2,Computer Networks,Mumbai,Fail
+STU_0102,23,TY,A,17.8,71.1,DBMS,Pune,Pass
+STU_0103,21,TY,B,10.9,81.6,Operating Systems,Nashik,Pass
+STU_0104,22,TY,C,21.6,94.1,Computer Networks,Mumbai,Pass
+STU_0105,22,SY,B,25.0,95.0,Software Eng,Mumbai,Pass
+STU_0106,20,TY,B,19.2,62.7,Software Eng,Pune,Pass
+STU_0107,23,SY,A,26.4,85.5,Data Mining,Navi Mumbai,Pass
+STU_0108,19,FY,A,18.0,54.3,Software Eng,Navi Mumbai,Pass
+STU_0109,18,FY,B,14.0,89.4,Computer Networks,Pune,Pass
+STU_0110,23,FY,B,23.9,71.7,Data Mining,Pune,Fail
+STU_0111,23,FY,C,17.1,70.7,DBMS,Navi Mumbai,Pass
+STU_0112,19,FY,A,9.4,91.0,Computer Networks,Pune,Fail
+STU_0113,20,FY,C,23.9,50.2,Computer Networks,Navi Mumbai,Fail
+STU_0114,21,TY,B,4.3,82.8,DBMS,Thane,Fail
+STU_0115,23,FY,C,13.7,61.9,Computer Networks,Thane,Pass
+STU_0116,21,SY,A,20.9,60.6,Computer Networks,Mumbai,Pass
+STU_0117,22,FY,A,3.1,50.4,Operating Systems,Pune,Pass
+STU_0118,23,FY,C,24.6,65.4,Computer Networks,Nashik,Pass
+STU_0119,22,SY,B,34.8,45.2,Data Mining,Nashik,Pass
+STU_0120,21,FY,C,33.4,56.4,Computer Networks,Pune,Fail
+STU_0121,23,FY,B,6.6,60.7,Operating Systems,Pune,Fail
+STU_0122,22,SY,B,14.5,97.8,Software Eng,Thane,Pass
+STU_0123,21,SY,A,27.0,61.3,Computer Networks,Mumbai,Fail
+STU_0124,19,SY,A,32.3,78.4,Software Eng,Nashik,Pass
+STU_0125,18,TY,B,29.4,95.8,Operating Systems,Thane,Pass
+STU_0126,22,TY,B,26.6,57.8,Data Mining,Mumbai,Pass
+STU_0127,20,SY,A,23.6,45.3,Software Eng,Mumbai,Pass
+STU_0128,23,FY,A,10.9,89.3,Operating Systems,Nashik,Pass
+STU_0129,23,TY,C,32.6,91.8,Computer Networks,Pune,Pass
+STU_0130,21,SY,A,33.0,71.4,Computer Networks,Navi Mumbai,Fail
+STU_0131,23,FY,A,3.2,78.1,Data Mining,Pune,Fail
+STU_0132,21,FY,B,23.4,65.4,Computer Networks,Nashik,Pass
+STU_0133,21,TY,C,8.6,69.3,Software Eng,Nashik,Fail
+STU_0134,19,FY,A,2.3,93.5,Operating Systems,Navi Mumbai,Fail
+STU_0135,21,SY,B,2.3,91.0,DBMS,Thane,Fail
+STU_0136,20,FY,C,22.3,68.6,Operating Systems,Pune,Pass
+STU_0137,18,SY,B,15.0,70.4,Operating Systems,Mumbai,Fail
+STU_0138,20,FY,B,8.3,95.0,Operating Systems,Nashik,Pass
+STU_0139,22,SY,A,9.9,59.7,Computer Networks,Thane,Pass
+STU_0140,19,SY,C,4.1,94.4,Operating Systems,Mumbai,Pass
+STU_0141,22,FY,A,17.0,85.5,Software Eng,Nashik,Pass
+STU_0142,23,TY,B,23.0,75.0,Computer Networks,Navi Mumbai,Pass
+STU_0143,23,FY,A,5.5,79.4,DBMS,Nashik,Pass
+STU_0144,23,FY,B,26.7,92.7,DBMS,Thane,Fail
+STU_0145,23,SY,A,33.2,93.4,Software Eng,Nashik,Pass
+STU_0146,18,TY,A,2.4,96.6,Computer Networks,Pune,Pass
+STU_0147,23,FY,A,7.2,74.9,Operating Systems,Thane,Pass
+STU_0148,20,FY,C,10.4,55.9,Software Eng,Mumbai,Fail
+STU_0149,21,FY,B,17.4,64.6,Computer Networks,Mumbai,Fail
+STU_0150,23,FY,B,6.8,69.3,Software Eng,Thane,Fail
+STU_0151,20,FY,A,18.9,97.9,Operating Systems,Nashik,Pass
+STU_0152,22,TY,C,33.4,81.2,Software Eng,Thane,Pass
+STU_0153,19,SY,B,29.4,69.1,DBMS,Nashik,Pass
+STU_0154,23,FY,C,14.1,55.9,Computer Networks,Pune,Fail
+STU_0155,20,FY,C,19.8,66.2,Data Mining,Pune,Fail
+STU_0156,19,TY,A,2.1,53.3,Data Mining,Nashik,Fail
+STU_0157,22,FY,B,6.1,87.4,Software Eng,Pune,Fail
+STU_0158,22,SY,C,28.2,64.8,Operating Systems,Pune,Pass
+STU_0159,19,SY,A,18.8,86.8,Data Mining,Mumbai,Pass
+STU_0160,21,TY,C,9.5,83.2,Computer Networks,Thane,Pass
+STU_0161,22,SY,A,2.6,71.9,Software Eng,Thane,Fail
+STU_0162,18,FY,A,3.9,65.0,Computer Networks,Nashik,Fail
+STU_0163,18,TY,B,33.6,81.7,Operating Systems,Nashik,Pass
+STU_0164,18,FY,B,32.6,51.9,DBMS,Nashik,Fail
+STU_0165,18,SY,A,33.6,86.2,DBMS,Pune,Fail
+STU_0166,23,TY,A,8.6,94.3,Operating Systems,Pune,Fail
+STU_0167,23,SY,A,8.6,77.1,DBMS,Thane,Fail
+STU_0168,19,FY,C,4.9,63.4,Software Eng,Nashik,Fail
+STU_0169,19,TY,B,29.4,80.5,Software Eng,Pune,Pass
+STU_0170,18,TY,B,13.1,51.8,DBMS,Navi Mumbai,Pass
+STU_0171,22,SY,C,12.9,85.4,Computer Networks,Navi Mumbai,Pass
+STU_0172,22,TY,B,5.6,79.8,Data Mining,Mumbai,Pass
+STU_0173,22,TY,C,32.7,48.4,Computer Networks,Thane,Pass
+STU_0174,19,FY,B,17.7,72.0,Data Mining,Navi Mumbai,Pass
+STU_0175,18,SY,C,23.4,97.3,Software Eng,Pune,Pass
+STU_0176,22,SY,A,15.5,75.2,DBMS,Nashik,Pass
+STU_0177,22,FY,B,23.6,68.5,Computer Networks,Thane,Pass
+STU_0178,21,SY,A,32.0,82.5,Data Mining,Nashik,Pass
+STU_0179,23,TY,A,32.6,47.0,Software Eng,Thane,Pass
+STU_0180,22,TY,A,21.4,94.2,Data Mining,Mumbai,Pass
+STU_0181,22,FY,C,26.7,72.3,Computer Networks,Navi Mumbai,Pass
+STU_0182,21,SY,C,33.4,63.5,Computer Networks,Navi Mumbai,Pass
+STU_0183,21,FY,C,13.6,76.7,DBMS,Navi Mumbai,Pass
+STU_0184,23,TY,C,7.1,77.5,Software Eng,Pune,Fail
+STU_0185,20,SY,B,5.9,56.2,DBMS,Nashik,Fail
+STU_0186,21,TY,C,34.9,48.2,Software Eng,Pune,Pass
+STU_0187,19,FY,C,20.8,52.0,Computer Networks,Mumbai,Pass
+STU_0188,22,SY,A,11.2,81.6,Computer Networks,Thane,Pass
+STU_0189,21,SY,C,26.4,91.6,Data Mining,Nashik,Pass
+STU_0190,18,FY,C,29.1,97.3,Software Eng,Pune,Pass
+STU_0191,18,TY,C,20.7,56.4,Software Eng,Nashik,Pass
+STU_0192,19,SY,A,34.4,67.2,Operating Systems,Thane,Fail
+STU_0193,18,FY,A,31.8,83.5,Software Eng,Thane,Pass
+STU_0194,22,SY,B,13.9,94.2,Software Eng,Thane,Pass
+STU_0195,21,SY,A,2.6,79.2,Data Mining,Navi Mumbai,Fail
+STU_0196,23,TY,A,10.3,79.4,Computer Networks,Thane,Fail
+STU_0197,23,TY,A,9.7,74.9,Computer Networks,Navi Mumbai,Fail
+STU_0198,23,FY,C,20.1,93.0,Operating Systems,Mumbai,Pass
+STU_0199,22,SY,B,27.9,51.6,Software Eng,Thane,Pass
+STU_0200,21,TY,A,17.3,86.0,DBMS,Thane,Pass
+STU_0201,23,TY,A,4.9,65.0,Software Eng,Nashik,Fail
+STU_0202,21,TY,C,10.6,57.6,Computer Networks,Mumbai,Fail
+STU_0203,20,SY,B,21.7,78.2,Operating Systems,Pune,Pass
+STU_0204,23,FY,C,34.8,75.9,Data Mining,Mumbai,Fail
+STU_0205,22,SY,A,31.4,67.2,Operating Systems,Nashik,Pass
+STU_0206,18,TY,A,23.0,81.9,Operating Systems,Navi Mumbai,Pass
+STU_0207,20,FY,C,29.8,67.3,DBMS,Thane,Fail
+STU_0208,18,FY,A,9.2,91.9,DBMS,Pune,Pass
+STU_0209,22,FY,C,31.3,46.2,DBMS,Thane,Pass
+STU_0210,20,TY,A,15.4,64.2,Data Mining,Pune,Pass
+STU_0211,18,TY,B,7.9,89.0,Data Mining,Pune,Pass
+STU_0212,20,FY,B,21.9,85.7,Data Mining,Nashik,Pass
+STU_0213,21,FY,B,14.1,49.9,Operating Systems,Mumbai,Pass
+STU_0214,23,SY,B,2.4,93.5,Data Mining,Navi Mumbai,Pass
+STU_0215,20,TY,C,5.9,71.3,Computer Networks,Navi Mumbai,Pass
+STU_0216,22,SY,A,21.1,85.7,DBMS,Pune,Pass
+STU_0217,22,FY,B,11.8,52.1,Computer Networks,Navi Mumbai,Fail
+STU_0218,21,TY,A,27.5,94.8,DBMS,Thane,Pass
+STU_0219,21,FY,B,12.3,91.3,Computer Networks,Navi Mumbai,Pass
+STU_0220,19,FY,B,16.2,92.4,Computer Networks,Mumbai,Pass
+STU_0221,18,TY,C,29.6,74.3,Operating Systems,Pune,Pass
+STU_0222,22,TY,B,11.1,89.8,Data Mining,Navi Mumbai,Fail
+STU_0223,18,TY,A,21.2,82.8,DBMS,Nashik,Pass
+STU_0224,23,SY,C,11.8,68.6,Software Eng,Navi Mumbai,Fail
+STU_0225,21,TY,C,4.2,63.9,Data Mining,Pune,Fail
+STU_0226,20,TY,C,8.2,79.1,Software Eng,Navi Mumbai,Pass
+STU_0227,18,SY,C,5.8,93.8,Operating Systems,Nashik,Fail
+STU_0228,20,SY,C,4.7,71.4,Operating Systems,Mumbai,Fail
+STU_0229,22,FY,A,19.7,93.9,Software Eng,Pune,Pass
+STU_0230,18,TY,B,34.0,74.6,Software Eng,Nashik,Pass
+STU_0231,21,SY,B,30.2,71.2,Data Mining,Mumbai,Pass
+STU_0232,23,FY,C,13.4,83.2,Operating Systems,Pune,Pass
+STU_0233,23,SY,C,33.2,68.6,Software Eng,Nashik,Pass
+STU_0234,18,SY,C,24.5,65.5,DBMS,Nashik,Fail
+STU_0235,19,TY,A,27.2,96.9,DBMS,Pune,Pass
+STU_0236,20,FY,C,33.0,95.6,DBMS,Pune,Pass
+STU_0237,19,FY,A,7.9,82.7,Operating Systems,Thane,Pass
+STU_0238,20,FY,B,11.8,78.9,Computer Networks,Nashik,Pass
+STU_0239,23,FY,A,6.1,62.7,Data Mining,Nashik,Fail
+STU_0240,20,SY,B,18.5,59.2,Operating Systems,Navi Mumbai,Pass
+STU_0241,21,FY,A,4.0,72.3,Data Mining,Thane,Pass
+STU_0242,19,SY,A,6.9,68.4,Computer Networks,Thane,Fail
+STU_0243,22,TY,B,11.0,93.8,Data Mining,Thane,Pass
+STU_0244,23,FY,C,27.9,69.7,DBMS,Nashik,Pass
+STU_0245,23,SY,A,17.5,49.3,Operating Systems,Thane,Fail
+STU_0246,18,TY,A,6.8,47.4,Software Eng,Navi Mumbai,Fail
+STU_0247,21,TY,C,32.6,68.6,Operating Systems,Mumbai,Pass
+STU_0248,22,FY,C,17.5,55.4,Software Eng,Pune,Pass
+STU_0249,21,TY,C,27.8,79.6,Software Eng,Mumbai,Pass
+STU_0250,19,SY,A,27.6,50.6,Operating Systems,Navi Mumbai,Fail
+STU_0251,20,FY,C,12.7,89.9,DBMS,Nashik,Pass
+STU_0252,18,TY,C,21.7,93.5,DBMS,Pune,Pass
+STU_0253,18,SY,C,9.6,81.3,Operating Systems,Thane,Fail
+STU_0254,20,FY,C,17.4,85.1,Software Eng,Navi Mumbai,Pass
+STU_0255,21,FY,A,11.1,58.0,Software Eng,Navi Mumbai,Fail
+STU_0256,19,SY,A,22.2,73.0,Software Eng,Mumbai,Pass
+STU_0257,19,SY,A,27.8,96.4,Operating Systems,Pune,Pass
+STU_0258,23,FY,B,15.9,63.8,Data Mining,Nashik,Pass
+STU_0259,20,FY,A,13.9,94.2,Operating Systems,Navi Mumbai,Pass
+STU_0260,22,TY,B,27.6,70.5,Software Eng,Mumbai,Pass
+STU_0261,22,FY,C,27.4,95.5,DBMS,Navi Mumbai,Pass
+STU_0262,18,TY,C,21.9,88.5,Data Mining,Mumbai,Pass
+STU_0263,23,TY,B,14.8,69.3,Operating Systems,Pune,Fail
+STU_0264,23,FY,B,33.2,49.4,DBMS,Mumbai,Fail
+STU_0265,20,TY,B,23.0,83.5,Operating Systems,Mumbai,Pass
+STU_0266,21,SY,C,10.2,74.5,Software Eng,Mumbai,Fail
+STU_0267,18,FY,C,23.7,48.8,Software Eng,Nashik,Fail
+STU_0268,20,TY,C,5.8,53.5,Computer Networks,Navi Mumbai,Fail
+STU_0269,21,SY,A,17.4,71.3,DBMS,Pune,Fail
+STU_0270,19,SY,C,18.1,72.3,Data Mining,Navi Mumbai,Pass
+STU_0271,22,FY,C,5.9,96.8,Data Mining,Mumbai,Pass
+STU_0272,21,TY,C,33.0,56.6,Operating Systems,Pune,Pass
+STU_0273,23,SY,A,17.2,71.3,Data Mining,Mumbai,Pass
+STU_0274,21,FY,B,19.8,72.3,DBMS,Thane,Pass
+STU_0275,22,SY,A,21.2,89.8,Data Mining,Navi Mumbai,Pass
+STU_0276,20,FY,C,32.6,46.8,DBMS,Pune,Pass
+STU_0277,19,FY,A,10.7,73.9,Operating Systems,Navi Mumbai,Pass
+STU_0278,18,TY,C,4.5,58.9,Operating Systems,Pune,Fail
+STU_0279,21,TY,B,28.4,93.5,Data Mining,Pune,Pass
+STU_0280,21,SY,A,20.0,68.2,Operating Systems,Nashik,Pass
+STU_0281,20,SY,B,20.1,82.9,Computer Networks,Nashik,Pass
+STU_0282,18,FY,C,11.5,75.3,Computer Networks,Mumbai,Fail
+STU_0283,19,TY,A,20.4,89.1,Data Mining,Thane,Pass
+STU_0284,21,TY,A,30.8,74.5,Operating Systems,Navi Mumbai,Pass
+STU_0285,20,SY,B,30.7,75.2,Software Eng,Mumbai,Pass
+STU_0286,21,SY,A,21.8,59.5,Operating Systems,Pune,Fail
+STU_0287,23,FY,B,16.3,57.2,Software Eng,Pune,Fail
+STU_0288,21,SY,A,34.4,48.8,Operating Systems,Mumbai,Fail
+STU_0289,22,FY,B,2.3,48.5,Operating Systems,Thane,Pass
+STU_0290,23,FY,C,28.1,84.8,DBMS,Mumbai,Pass
+STU_0291,21,SY,C,23.5,95.3,DBMS,Navi Mumbai,Pass
+STU_0292,19,FY,B,8.7,90.7,DBMS,Navi Mumbai,Pass
+STU_0293,19,TY,B,21.1,93.2,Operating Systems,Nashik,Fail
+STU_0294,19,TY,C,30.1,79.1,Operating Systems,Mumbai,Pass
+STU_0295,21,FY,A,27.6,70.7,DBMS,Pune,Fail
+STU_0296,19,TY,A,2.6,66.2,Software Eng,Nashik,Pass
+STU_0297,19,FY,B,7.3,92.9,Software Eng,Thane,Pass
+STU_0298,19,TY,A,32.5,93.7,DBMS,Pune,Pass
+STU_0299,22,TY,B,28.0,65.8,Operating Systems,Navi Mumbai,Pass
+STU_0300,20,SY,A,11.0,91.1,Computer Networks,Thane,Pass
+STU_0301,20,TY,C,11.6,67.2,Operating Systems,Mumbai,Fail
+STU_0302,23,SY,C,19.7,52.0,DBMS,Pune,Fail
+STU_0303,23,TY,B,6.4,78.5,Software Eng,Nashik,Pass
+STU_0304,18,TY,C,11.1,55.2,DBMS,Navi Mumbai,Pass
+STU_0305,19,FY,A,30.8,65.5,Software Eng,Thane,Fail
+STU_0306,20,SY,C,8.8,93.9,Software Eng,Nashik,Pass
+STU_0307,19,FY,B,27.8,56.9,Operating Systems,Navi Mumbai,Fail
+STU_0308,18,SY,A,21.4,45.7,Computer Networks,Nashik,Pass
+STU_0309,22,FY,C,18.9,65.5,DBMS,Navi Mumbai,Fail
+STU_0310,23,TY,A,7.8,56.4,Computer Networks,Mumbai,Fail
+STU_0311,18,FY,C,34.2,47.7,Software Eng,Pune,Fail
+STU_0312,22,TY,B,12.3,49.1,DBMS,Navi Mumbai,Fail
+STU_0313,23,TY,C,15.9,58.7,Operating Systems,Nashik,Pass
+STU_0314,18,FY,C,26.7,56.1,Software Eng,Nashik,Pass
+STU_0315,23,TY,B,6.4,93.4,Computer Networks,Thane,Pass
+STU_0316,23,SY,B,6.1,86.6,DBMS,Pune,Pass
+STU_0317,21,FY,A,8.9,97.9,Software Eng,Pune,Fail
+STU_0318,20,SY,B,5.7,80.4,Operating Systems,Mumbai,Fail
+STU_0319,20,TY,C,2.8,95.7,DBMS,Pune,Pass
+STU_0320,23,FY,B,5.3,55.2,DBMS,Thane,Fail
+STU_0321,23,SY,C,26.3,55.9,Software Eng,Pune,Pass
+STU_0322,21,SY,C,17.9,57.9,DBMS,Pune,Pass
+STU_0323,20,TY,C,30.1,53.9,Operating Systems,Navi Mumbai,Pass
+STU_0324,22,SY,A,3.2,53.4,Software Eng,Thane,Fail
+STU_0325,23,TY,B,2.4,65.5,Computer Networks,Navi Mumbai,Fail
+STU_0326,21,TY,B,17.9,59.0,DBMS,Mumbai,Pass
+STU_0327,20,SY,B,17.8,69.5,Computer Networks,Nashik,Pass
+STU_0328,22,SY,B,9.8,46.6,Operating Systems,Navi Mumbai,Fail
+STU_0329,23,FY,B,13.4,65.7,Data Mining,Navi Mumbai,Pass
+STU_0330,20,FY,B,20.7,73.5,Operating Systems,Thane,Pass
+STU_0331,18,TY,A,12.2,85.2,Operating Systems,Thane,Fail
+STU_0332,20,FY,C,33.7,87.3,Software Eng,Thane,Pass
+STU_0333,19,TY,B,6.3,74.1,Software Eng,Pune,Fail
+STU_0334,18,SY,C,23.3,95.8,Computer Networks,Pune,Pass
+STU_0335,20,SY,C,15.5,79.0,DBMS,Pune,Pass
+STU_0336,20,SY,A,5.4,61.6,Computer Networks,Thane,Fail
+STU_0337,22,FY,B,10.4,48.3,Software Eng,Pune,Pass
+STU_0338,18,SY,A,24.2,70.6,Computer Networks,Navi Mumbai,Fail
+STU_0339,22,TY,B,11.6,45.8,Computer Networks,Navi Mumbai,Fail
+STU_0340,22,FY,C,26.9,71.4,Operating Systems,Navi Mumbai,Fail
+STU_0341,22,FY,B,19.1,45.4,DBMS,Nashik,Fail
+STU_0342,23,SY,B,21.1,75.9,Computer Networks,Navi Mumbai,Pass
+STU_0343,19,SY,C,20.5,81.6,Software Eng,Mumbai,Pass
+STU_0344,20,TY,B,32.4,90.9,Software Eng,Thane,Pass
+STU_0345,22,SY,A,20.8,72.0,Software Eng,Mumbai,Pass
+STU_0346,20,TY,B,21.0,70.2,Operating Systems,Thane,Pass
+STU_0347,23,SY,B,22.1,70.0,DBMS,Pune,Pass
+STU_0348,20,TY,C,23.2,75.3,Operating Systems,Navi Mumbai,Fail
+STU_0349,19,TY,C,11.1,60.3,Operating Systems,Thane,Fail
+STU_0350,19,SY,A,15.7,60.3,Computer Networks,Thane,Pass
+STU_0351,20,FY,C,12.6,57.7,Operating Systems,Nashik,Pass
+STU_0352,20,SY,C,30.8,80.0,DBMS,Nashik,Pass
+STU_0353,21,FY,A,23.0,92.8,Computer Networks,Navi Mumbai,Pass
+STU_0354,19,FY,C,20.7,94.9,Software Eng,Mumbai,Pass
+STU_0355,20,FY,C,28.5,96.0,Computer Networks,Thane,Pass
+STU_0356,19,SY,A,13.2,95.4,Data Mining,Thane,Pass
+STU_0357,18,TY,A,18.5,49.3,Software Eng,Pune,Pass
+STU_0358,22,SY,A,17.3,60.8,Operating Systems,Mumbai,Pass
+STU_0359,22,TY,A,12.7,81.7,Computer Networks,Thane,Pass
+STU_0360,21,SY,C,30.5,54.2,Software Eng,Pune,Pass
+STU_0361,18,SY,C,10.5,64.5,Operating Systems,Navi Mumbai,Pass
+STU_0362,23,SY,C,30.8,62.6,DBMS,Thane,Fail
+STU_0363,21,FY,C,24.7,89.9,DBMS,Thane,Pass
+STU_0364,21,TY,B,10.4,66.4,DBMS,Nashik,Pass
+STU_0365,20,TY,B,22.7,71.0,Computer Networks,Pune,Pass
+STU_0366,22,SY,B,7.8,65.4,Data Mining,Thane,Pass
+STU_0367,18,FY,B,11.0,50.0,Computer Networks,Nashik,Fail
+STU_0368,18,FY,A,34.4,89.9,Operating Systems,Navi Mumbai,Pass
+STU_0369,21,FY,B,2.5,69.5,Operating Systems,Mumbai,Pass
+STU_0370,18,FY,A,31.0,47.7,Software Eng,Nashik,Fail
+STU_0371,23,SY,A,7.1,97.9,Computer Networks,Pune,Fail
+STU_0372,22,FY,B,33.1,52.0,Software Eng,Mumbai,Fail
+STU_0373,22,FY,A,4.9,50.0,Data Mining,Thane,Pass
+STU_0374,20,FY,B,9.9,79.1,Operating Systems,Navi Mumbai,Pass
+STU_0375,23,FY,A,34.0,69.6,Data Mining,Thane,Pass
+STU_0376,18,TY,C,3.7,59.3,Software Eng,Navi Mumbai,Fail
+STU_0377,19,TY,C,13.3,93.9,Operating Systems,Mumbai,Pass
+STU_0378,20,FY,C,29.9,49.1,DBMS,Mumbai,Pass
+STU_0379,21,FY,A,9.9,86.3,DBMS,Pune,Pass
+STU_0380,19,SY,C,31.3,45.5,Computer Networks,Navi Mumbai,Fail
+STU_0381,20,FY,B,20.1,94.9,Software Eng,Nashik,Pass
+STU_0382,21,TY,C,34.9,64.0,Operating Systems,Thane,Pass
+STU_0383,19,SY,C,32.1,74.6,DBMS,Thane,Pass
+STU_0384,21,SY,A,18.8,69.4,Operating Systems,Thane,Pass
+STU_0385,21,TY,B,32.6,67.7,Data Mining,Thane,Pass
+STU_0386,19,FY,A,10.7,51.6,Data Mining,Mumbai,Pass
+STU_0387,20,TY,B,21.2,52.5,DBMS,Nashik,Pass
+STU_0388,23,FY,A,10.4,67.4,Operating Systems,Pune,Pass
+STU_0389,20,FY,B,4.5,72.9,DBMS,Pune,Fail
+STU_0390,18,FY,C,4.8,74.0,Operating Systems,Navi Mumbai,Fail
+STU_0391,22,SY,A,6.6,72.0,Data Mining,Thane,Pass
+STU_0392,22,SY,A,32.9,72.1,DBMS,Thane,Fail
+STU_0393,20,FY,B,16.9,53.3,Operating Systems,Pune,Fail
+STU_0394,19,FY,A,25.8,73.2,Software Eng,Navi Mumbai,Pass
+STU_0395,18,SY,C,16.7,65.5,Computer Networks,Nashik,Pass
+STU_0396,21,FY,B,24.7,47.6,Operating Systems,Thane,Fail
+STU_0397,18,TY,A,3.2,93.3,Software Eng,Mumbai,Pass
+STU_0398,18,FY,C,12.7,97.6,DBMS,Pune,Fail
+STU_0399,21,SY,B,16.5,47.7,Software Eng,Navi Mumbai,Pass
+STU_0400,22,FY,A,16.9,64.1,Software Eng,Thane,Pass
+STU_0401,23,TY,B,33.5,78.9,Data Mining,Pune,Fail
+STU_0402,18,FY,B,3.6,78.3,DBMS,Nashik,Pass
+STU_0403,21,TY,B,15.6,71.1,Data Mining,Pune,Fail
+STU_0404,20,FY,C,13.0,69.8,Data Mining,Nashik,Pass
+STU_0405,18,FY,C,15.4,45.1,Computer Networks,Mumbai,Fail
+STU_0406,20,FY,C,31.9,78.3,Operating Systems,Navi Mumbai,Pass
+STU_0407,21,TY,A,10.7,86.5,DBMS,Mumbai,Pass
+STU_0408,20,SY,C,25.3,48.3,Data Mining,Nashik,Pass
+STU_0409,21,SY,C,12.9,69.2,DBMS,Pune,Pass
+STU_0410,20,FY,C,12.0,48.2,Computer Networks,Nashik,Fail
+STU_0411,18,SY,A,2.7,71.3,Software Eng,Pune,Fail
+STU_0412,22,FY,A,24.7,51.2,Computer Networks,Thane,Fail
+STU_0413,18,TY,A,31.3,83.0,DBMS,Nashik,Pass
+STU_0414,19,TY,C,18.0,50.0,Operating Systems,Navi Mumbai,Fail
+STU_0415,19,FY,A,25.2,82.9,Computer Networks,Navi Mumbai,Pass
+STU_0416,19,FY,C,19.7,70.3,Software Eng,Pune,Fail
+STU_0417,21,TY,A,2.8,91.1,Software Eng,Thane,Fail
+STU_0418,22,TY,A,7.7,66.4,Data Mining,Navi Mumbai,Pass
+STU_0419,23,SY,B,4.0,70.7,Data Mining,Mumbai,Fail
+STU_0420,23,FY,B,16.1,92.4,Operating Systems,Navi Mumbai,Pass
+STU_0421,23,TY,C,30.1,61.8,DBMS,Thane,Pass
+STU_0422,20,SY,C,5.9,62.9,Data Mining,Pune,Pass
+STU_0423,22,FY,A,28.2,48.0,Data Mining,Mumbai,Fail
+STU_0424,20,SY,B,33.2,71.4,Data Mining,Pune,Fail
+STU_0425,18,SY,C,2.6,94.0,Operating Systems,Thane,Pass
+STU_0426,21,SY,A,15.8,83.4,Computer Networks,Mumbai,Fail
+STU_0427,20,FY,A,23.2,61.6,Operating Systems,Navi Mumbai,Pass
+STU_0428,20,SY,B,29.8,92.1,Operating Systems,Pune,Pass
+STU_0429,18,TY,C,3.4,94.1,Data Mining,Nashik,Fail
+STU_0430,23,TY,B,26.7,61.5,Software Eng,Thane,Pass
+STU_0431,22,TY,A,23.0,93.5,Operating Systems,Nashik,Pass
+STU_0432,19,TY,A,6.8,84.8,Software Eng,Thane,Fail
+STU_0433,23,FY,B,31.4,75.6,Computer Networks,Navi Mumbai,Pass
+STU_0434,22,FY,C,28.5,78.6,Data Mining,Nashik,Pass
+STU_0435,22,SY,A,19.0,45.9,Data Mining,Thane,Pass
+STU_0436,21,TY,A,33.8,83.2,DBMS,Thane,Pass
+STU_0437,22,TY,B,9.0,61.6,Computer Networks,Pune,Pass
+STU_0438,20,TY,A,31.0,65.8,Operating Systems,Nashik,Pass
+STU_0439,19,FY,C,14.6,59.5,Data Mining,Nashik,Pass
+STU_0440,21,TY,B,30.5,84.1,Computer Networks,Navi Mumbai,Pass
+STU_0441,18,SY,C,30.6,91.7,Operating Systems,Mumbai,Pass
+STU_0442,18,FY,A,10.9,78.3,Data Mining,Nashik,Pass
+STU_0443,19,TY,B,12.3,74.0,Software Eng,Nashik,Pass
+STU_0444,18,SY,B,11.3,54.5,Data Mining,Pune,Fail
+STU_0445,19,FY,C,5.8,92.6,Software Eng,Nashik,Fail
+STU_0446,23,FY,C,20.5,64.3,Computer Networks,Navi Mumbai,Pass
+STU_0447,23,FY,A,30.1,78.0,DBMS,Nashik,Pass
+STU_0448,23,FY,A,11.4,59.2,Operating Systems,Navi Mumbai,Fail
+STU_0449,23,SY,C,16.4,76.3,Computer Networks,Thane,Pass
+STU_0450,21,SY,B,10.8,75.6,DBMS,Nashik,Pass
+STU_0451,20,SY,C,24.5,59.4,Computer Networks,Thane,Fail
+STU_0452,22,FY,C,4.8,80.1,DBMS,Nashik,Fail
+STU_0453,23,TY,C,22.8,72.2,Computer Networks,Thane,Pass
+STU_0454,21,FY,C,6.6,83.2,Computer Networks,Nashik,Fail
+STU_0455,18,TY,B,22.9,45.9,Computer Networks,Navi Mumbai,Pass
+STU_0456,21,FY,C,13.7,48.9,DBMS,Navi Mumbai,Fail
+STU_0457,22,TY,C,32.4,63.6,Operating Systems,Navi Mumbai,Pass
+STU_0458,20,FY,A,29.1,64.8,Computer Networks,Mumbai,Pass
+STU_0459,19,FY,A,31.0,58.8,Software Eng,Thane,Fail
+STU_0460,19,TY,B,11.1,47.0,Data Mining,Mumbai,Pass
+STU_0461,20,FY,A,22.5,88.3,Software Eng,Nashik,Pass
+STU_0462,23,FY,A,9.5,60.3,DBMS,Pune,Pass
+STU_0463,19,SY,C,12.5,98.0,DBMS,Pune,Fail
+STU_0464,22,SY,A,16.7,83.0,Data Mining,Pune,Pass
+STU_0465,23,TY,B,13.3,71.2,Software Eng,Mumbai,Pass
+STU_0466,22,SY,A,25.2,89.0,Computer Networks,Thane,Pass
+STU_0467,19,FY,C,31.5,95.6,Computer Networks,Nashik,Pass
+STU_0468,19,FY,B,20.2,58.9,Computer Networks,Navi Mumbai,Pass
+STU_0469,18,TY,B,26.4,70.8,Operating Systems,Pune,Fail
+STU_0470,22,FY,C,12.5,87.7,Data Mining,Thane,Fail
+STU_0471,18,FY,B,22.4,86.1,Operating Systems,Pune,Pass
+STU_0472,23,TY,C,11.8,52.3,Operating Systems,Pune,Fail
+STU_0473,20,FY,B,16.3,82.7,Data Mining,Thane,Pass
+STU_0474,23,TY,C,5.9,87.2,Software Eng,Mumbai,Pass
+STU_0475,23,FY,B,26.8,88.2,DBMS,Pune,Pass
+STU_0476,18,SY,C,21.5,60.5,DBMS,Pune,Pass
+STU_0477,19,TY,C,12.1,65.5,DBMS,Nashik,Fail
+STU_0478,19,SY,B,13.9,59.3,Data Mining,Pune,Fail
+STU_0479,23,TY,A,23.2,80.2,Data Mining,Pune,Pass
+STU_0480,20,FY,C,11.5,96.4,Data Mining,Mumbai,Fail
+STU_0481,22,SY,B,10.1,81.4,Operating Systems,Nashik,Pass
+STU_0482,18,SY,B,19.1,86.0,DBMS,Navi Mumbai,Pass
+STU_0483,22,TY,B,31.1,58.9,Data Mining,Thane,Pass
+STU_0484,18,SY,A,31.6,46.8,Operating Systems,Nashik,Pass
+STU_0485,19,FY,C,30.4,53.5,DBMS,Mumbai,Fail
+STU_0486,19,FY,B,5.1,77.1,DBMS,Nashik,Pass
+STU_0487,23,SY,B,30.9,45.3,Data Mining,Thane,Pass
+STU_0488,21,SY,A,20.9,50.4,Operating Systems,Thane,Fail
+STU_0489,21,FY,C,31.5,90.0,Computer Networks,Thane,Pass
+STU_0490,20,TY,C,2.4,84.4,Data Mining,Nashik,Pass
+STU_0491,22,FY,C,12.6,49.7,Data Mining,Mumbai,Fail
+STU_0492,19,TY,A,26.3,94.5,Computer Networks,Thane,Pass
+STU_0493,22,TY,C,29.6,85.4,DBMS,Thane,Pass
+STU_0494,20,SY,B,5.4,63.7,Software Eng,Navi Mumbai,Fail
+STU_0495,22,SY,C,33.0,87.4,Software Eng,Pune,Pass
+STU_0496,19,SY,A,33.5,90.0,Data Mining,Mumbai,Pass
+STU_0497,21,TY,C,18.6,92.6,Data Mining,Navi Mumbai,Fail
+STU_0498,22,TY,A,16.1,57.9,Operating Systems,Thane,Fail
+STU_0499,23,TY,C,33.4,62.6,Computer Networks,Pune,Pass
+STU_0500,19,TY,C,34.7,59.6,Software Eng,Pune,Pass

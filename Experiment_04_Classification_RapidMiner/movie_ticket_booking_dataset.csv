@@ -1,0 +1,151 @@
+Booking_ID,Genre,Show_Time,Screen_Type,Ticket_Price,Tickets_Booked,Customer_Age,Payment_Method,booking_status
+B001,Romance,Matinee,IMAX,450,4,21,Card,Successful
+B002,Comedy,Late Night,IMAX,300,3,46,UPI,Successful
+B003,Sci-Fi,Morning,3D,450,2,48,Net Banking,Successful
+B004,Thriller,Late Night,2D,200,4,47,Net Banking,Successful
+B005,Romance,Evening,IMAX,450,4,42,Card,Successful
+B006,Thriller,Late Night,2D,600,2,52,UPI,Successful
+B007,Action,Evening,IMAX,450,1,34,Card,Unsuccessful
+B008,Thriller,Matinee,3D,200,2,43,Net Banking,Unsuccessful
+B009,Romance,Late Night,2D,600,5,37,Card,Unsuccessful
+B010,Action,Morning,2D,200,5,40,Cash,Unsuccessful
+B011,Action,Late Night,IMAX,300,6,29,Card,Unsuccessful
+B012,Romance,Late Night,2D,200,2,37,Net Banking,Successful
+B013,Action,Evening,3D,200,2,35,Net Banking,Successful
+B014,Sci-Fi,Evening,3D,300,4,25,Net Banking,Successful
+B015,Comedy,Matinee,2D,200,6,43,Cash,Unsuccessful
+B016,Action,Evening,2D,450,4,30,Net Banking,Successful
+B017,Sci-Fi,Evening,3D,450,4,43,UPI,Successful
+B018,Romance,Morning,2D,300,6,25,Card,Successful
+B019,Comedy,Morning,3D,300,6,41,Card,Successful
+B020,Romance,Evening,3D,450,6,34,Card,Unsuccessful
+B021,Sci-Fi,Late Night,3D,200,2,21,Net Banking,Unsuccessful
+B022,Thriller,Late Night,IMAX,200,3,53,Card,Unsuccessful
+B023,Thriller,Morning,2D,600,4,35,Card,Unsuccessful
+B024,Action,Morning,IMAX,450,5,25,UPI,Unsuccessful
+B025,Thriller,Evening,IMAX,200,2,48,Cash,Successful
+B026,Action,Matinee,3D,300,6,52,UPI,Unsuccessful
+B027,Sci-Fi,Matinee,2D,300,4,26,UPI,Unsuccessful
+B028,Romance,Matinee,2D,200,3,50,Card,Unsuccessful
+B029,Thriller,Matinee,2D,200,1,46,UPI,Unsuccessful
+B030,Thriller,Matinee,IMAX,200,1,36,UPI,Unsuccessful
+B031,Comedy,Evening,2D,300,6,42,Cash,Successful
+B032,Comedy,Morning,2D,450,4,33,Cash,Successful
+B033,Thriller,Matinee,IMAX,300,4,46,Cash,Unsuccessful
+B034,Comedy,Morning,2D,450,1,32,Net Banking,Unsuccessful
+B035,Action,Late Night,2D,450,5,41,Cash,Unsuccessful
+B036,Comedy,Morning,3D,450,1,29,UPI,Successful
+B037,Action,Late Night,2D,450,1,32,UPI,Successful
+B038,Thriller,Late Night,2D,300,4,46,Net Banking,Successful
+B039,Sci-Fi,Evening,3D,300,2,51,Cash,Successful
+B040,Sci-Fi,Late Night,IMAX,200,1,51,UPI,Successful
+B041,Action,Late Night,3D,600,6,41,Net Banking,Successful
+B042,Thriller,Matinee,2D,600,6,22,Cash,Successful
+B043,Thriller,Morning,IMAX,200,6,47,Net Banking,Unsuccessful
+B044,Thriller,Matinee,2D,300,6,52,Cash,Unsuccessful
+B045,Sci-Fi,Morning,3D,200,1,28,Net Banking,Unsuccessful
+B046,Sci-Fi,Matinee,IMAX,450,5,54,Card,Successful
+B047,Action,Matinee,2D,200,5,30,Cash,Successful
+B048,Sci-Fi,Late Night,3D,450,2,26,Card,Successful
+B049,Thriller,Late Night,2D,300,3,22,Net Banking,Successful
+B050,Action,Morning,3D,200,2,35,Card,Unsuccessful
+B051,Sci-Fi,Late Night,2D,300,3,27,Net Banking,Successful
+B052,Thriller,Evening,2D,450,3,36,Cash,Unsuccessful
+B053,Sci-Fi,Matinee,IMAX,200,4,24,Cash,Unsuccessful
+B054,Sci-Fi,Evening,2D,600,4,54,Card,Successful
+B055,Action,Late Night,IMAX,600,1,37,Card,Unsuccessful
+B056,Romance,Late Night,2D,450,5,23,Card,Successful
+B057,Romance,Evening,2D,300,1,42,Net Banking,Unsuccessful
+B058,Romance,Matinee,IMAX,600,6,27,Card,Unsuccessful
+B059,Sci-Fi,Morning,3D,600,6,33,Net Banking,Unsuccessful
+B060,Comedy,Morning,3D,600,3,20,Net Banking,Unsuccessful
+B061,Action,Evening,3D,450,1,21,UPI,Successful
+B062,Thriller,Late Night,3D,300,3,31,Card,Unsuccessful
+B063,Sci-Fi,Matinee,IMAX,450,3,55,UPI,Unsuccessful
+B064,Sci-Fi,Evening,IMAX,200,2,44,Net Banking,Successful
+B065,Comedy,Evening,IMAX,300,4,50,Card,Successful
+B066,Action,Morning,3D,450,2,33,Net Banking,Unsuccessful
+B067,Action,Evening,2D,450,5,35,Card,Successful
+B068,Sci-Fi,Matinee,IMAX,200,5,18,Net Banking,Successful
+B069,Thriller,Morning,3D,450,1,43,Cash,Successful
+B070,Comedy,Late Night,2D,200,3,37,Cash,Unsuccessful
+B071,Action,Late Night,2D,300,1,32,Cash,Successful
+B072,Action,Matinee,IMAX,450,2,42,Cash,Successful
+B073,Sci-Fi,Evening,3D,300,1,30,Net Banking,Successful
+B074,Sci-Fi,Evening,IMAX,200,4,20,Card,Successful
+B075,Romance,Morning,IMAX,300,2,30,Cash,Successful
+B076,Thriller,Matinee,3D,300,4,51,Net Banking,Unsuccessful
+B077,Action,Morning,IMAX,200,4,27,Cash,Unsuccessful
+B078,Sci-Fi,Evening,IMAX,600,6,25,Card,Successful
+B079,Thriller,Matinee,2D,300,1,51,UPI,Successful
+B080,Sci-Fi,Evening,2D,600,1,25,UPI,Successful
+B081,Romance,Matinee,3D,600,1,41,UPI,Successful
+B082,Comedy,Matinee,2D,600,2,35,UPI,Unsuccessful
+B083,Action,Morning,IMAX,200,1,26,Cash,Unsuccessful
+B084,Comedy,Morning,IMAX,200,6,26,UPI,Successful
+B085,Comedy,Morning,3D,450,2,39,Cash,Unsuccessful
+B086,Sci-Fi,Evening,IMAX,300,2,46,Cash,Unsuccessful
+B087,Comedy,Morning,IMAX,300,2,20,Card,Successful
+B088,Comedy,Evening,2D,600,3,40,Net Banking,Successful
+B089,Sci-Fi,Late Night,3D,300,5,39,UPI,Unsuccessful
+B090,Sci-Fi,Evening,2D,200,4,51,Cash,Successful
+B091,Comedy,Evening,2D,200,1,41,Card,Successful
+B092,Action,Evening,2D,600,1,35,Card,Unsuccessful
+B093,Romance,Late Night,IMAX,450,5,22,UPI,Unsuccessful
+B094,Sci-Fi,Morning,2D,600,1,33,UPI,Successful
+B095,Comedy,Late Night,2D,300,4,47,Cash,Successful
+B096,Comedy,Late Night,IMAX,450,6,29,Cash,Unsuccessful
+B097,Action,Matinee,3D,600,5,47,UPI,Successful
+B098,Thriller,Late Night,3D,450,6,55,Cash,Unsuccessful
+B099,Comedy,Matinee,IMAX,200,3,27,Cash,Unsuccessful
+B100,Thriller,Evening,3D,200,5,20,Cash,Successful
+B101,Comedy,Evening,IMAX,300,4,34,Net Banking,Successful
+B102,Comedy,Late Night,2D,450,5,54,Cash,Unsuccessful
+B103,Sci-Fi,Late Night,3D,450,2,55,Cash,Successful
+B104,Thriller,Late Night,2D,200,1,22,UPI,Successful
+B105,Sci-Fi,Evening,2D,200,1,32,UPI,Successful
+B106,Comedy,Late Night,3D,450,4,22,Net Banking,Successful
+B107,Romance,Morning,3D,300,6,22,Cash,Successful
+B108,Sci-Fi,Morning,IMAX,300,5,28,UPI,Successful
+B109,Romance,Evening,IMAX,300,3,44,Card,Successful
+B110,Thriller,Matinee,IMAX,600,5,27,Cash,Successful
+B111,Comedy,Evening,3D,300,6,35,Net Banking,Successful
+B112,Thriller,Evening,IMAX,300,5,48,Card,Successful
+B113,Thriller,Morning,3D,200,1,41,Cash,Successful
+B114,Sci-Fi,Evening,2D,450,2,19,Net Banking,Successful
+B115,Thriller,Matinee,IMAX,200,3,50,Net Banking,Successful
+B116,Sci-Fi,Matinee,2D,300,1,41,UPI,Successful
+B117,Comedy,Evening,2D,200,2,41,Card,Successful
+B118,Sci-Fi,Late Night,3D,200,6,25,Cash,Unsuccessful
+B119,Comedy,Evening,IMAX,600,5,51,Cash,Successful
+B120,Thriller,Late Night,IMAX,200,1,54,Card,Successful
+B121,Comedy,Morning,2D,450,1,46,Cash,Successful
+B122,Romance,Morning,IMAX,200,1,23,Card,Unsuccessful
+B123,Thriller,Morning,2D,200,6,25,Net Banking,Unsuccessful
+B124,Thriller,Morning,2D,450,5,39,Cash,Successful
+B125,Sci-Fi,Morning,IMAX,200,5,29,Cash,Successful
+B126,Romance,Matinee,3D,450,3,24,Card,Unsuccessful
+B127,Romance,Late Night,3D,200,3,34,Card,Successful
+B128,Action,Late Night,2D,600,6,53,UPI,Unsuccessful
+B129,Comedy,Matinee,IMAX,600,6,23,Cash,Successful
+B130,Comedy,Late Night,3D,600,6,50,Net Banking,Successful
+B131,Romance,Late Night,2D,600,1,45,Card,Unsuccessful
+B132,Action,Evening,3D,450,5,32,Net Banking,Unsuccessful
+B133,Sci-Fi,Late Night,IMAX,200,3,38,UPI,Successful
+B134,Romance,Late Night,IMAX,300,3,38,UPI,Unsuccessful
+B135,Comedy,Late Night,IMAX,300,1,38,Cash,Successful
+B136,Comedy,Evening,2D,600,1,48,UPI,Unsuccessful
+B137,Romance,Morning,2D,200,3,40,Card,Successful
+B138,Action,Matinee,2D,200,6,43,Card,Successful
+B139,Sci-Fi,Morning,IMAX,200,3,39,Card,Successful
+B140,Sci-Fi,Matinee,IMAX,450,5,34,Cash,Unsuccessful
+B141,Action,Morning,2D,450,5,39,Cash,Successful
+B142,Thriller,Matinee,3D,450,6,50,Net Banking,Unsuccessful
+B143,Thriller,Morning,IMAX,450,2,18,UPI,Successful
+B144,Comedy,Late Night,IMAX,600,5,40,Net Banking,Unsuccessful
+B145,Thriller,Matinee,IMAX,450,6,33,Cash,Successful
+B146,Thriller,Matinee,2D,450,5,45,UPI,Successful
+B147,Action,Morning,3D,300,1,53,Net Banking,Unsuccessful
+B148,Romance,Late Night,IMAX,200,1,35,Card,Successful
+B149,Thriller,Matinee,2D,300,6,49,UPI,Successful
+B150,Comedy,Late Night,IMAX,600,6,39,UPI,Unsuccessful

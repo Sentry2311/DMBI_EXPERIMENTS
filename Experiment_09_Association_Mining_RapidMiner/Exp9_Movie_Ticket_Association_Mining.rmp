@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<process version="9.1.000-SNAPSHOT">
+  <context>
+    <input />
+    <output />
+    <macros />
+  </context>
+  <operator activated="true" class="process" compatibility="9.1.000-SNAPSHOT" expanded="true" name="Root">
+    <parameter key="logverbosity" value="warning" />
+    <parameter key="random_seed" value="2001" />
+    <parameter key="send_mail" value="never" />
+    <parameter key="notification_email" value="" />
+    <parameter key="process_duration_for_mail" value="30" />
+    <parameter key="encoding" value="SYSTEM" />
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="8.2.000-SNAPSHOT" expanded="true" height="82" name="Read Movie Ticket Items" width="100" x="45" y="55">
+        <parameter key="csv_file" value="C:\Users\mpbha\Documents\Codex\2026-10-31\do\outputs\Exp9_Movie_Ticket_Booking_Items.csv" />
+        <parameter key="column_separators" value="," />
+        <parameter key="use_header_row" value="true" />
+        <parameter key="header_row" value="1" />
+        <parameter key="read_all_values_as_polynominal" value="false" />
+        <parameter key="parse_numbers" value="true" />
+        <parameter key="trim_lines" value="true" />
+        <parameter key="encoding" value="UTF-8" />
+        <list key="annotations" />
+        <list key="data_set_meta_data_information" />
+      </operator>
+      <operator activated="true" class="set_role" compatibility="8.2.000-SNAPSHOT" expanded="true" height="82" name="Set Booking ID Role" width="100" x="190" y="55">
+        <parameter key="attribute_name" value="Booking_ID" />
+        <parameter key="target_role" value="id" />
+      </operator>
+      <operator activated="true" class="numerical_to_binominal" compatibility="8.2.000-SNAPSHOT" expanded="true" height="82" name="Numerical to Binominal" width="100" x="335" y="55">
+        <parameter key="attribute_filter_type" value="all" />
+        <parameter key="include_special_attributes" value="false" />
+        <parameter key="min" value="0.0" />
+        <parameter key="max" value="0.0" />
+      </operator>
+      <operator activated="true" class="concurrency:fp_growth" compatibility="8.2.000-SNAPSHOT" expanded="true" height="82" name="FP-Growth" width="100" x="480" y="55">
+        <parameter key="input_format" value="items in dummy coded columns" />
+        <parameter key="column_separators" value=";" />
+        <parameter key="use_quotes" value="false" />
+        <parameter key="quotes_character" value="&quot;" />
+        <parameter key="escape_character" value="\" />
+        <parameter key="trim_item_names" value="true" />
+        <parameter key="positive_value" value="true" />
+        <parameter key="min_requirement" value="support" />
+        <parameter key="min_support" value="0.10" />
+        <parameter key="min_frequency" value="12" />
+        <parameter key="min_number_of_items_in_an_itemset" value="1" />
+        <parameter key="max_number_of_items_in_an_itemset" value="4" />
+        <parameter key="max_number_of_itemsets" value="100000" />
+        <parameter key="find_min_number_of_itemsets" value="false" />
+        <parameter key="min_number_of_itemsets" value="100" />
+        <parameter key="max_number_of_retries" value="15" />
+        <parameter key="support_decrease_factor" value="0.9" />
+        <parameter key="reproducible" value="true" />
+        <enumeration key="must_contain_list" />
+      </operator>
+      <operator activated="true" class="create_association_rules" compatibility="8.2.000-SNAPSHOT" expanded="true" height="82" name="Create Association Rules" width="100" x="625" y="100">
+        <parameter key="criterion" value="lift" />
+        <parameter key="min_confidence" value="0.40" />
+        <parameter key="min_criterion_value" value="1.0" />
+        <parameter key="gain_theta" value="2.0" />
+        <parameter key="laplace_k" value="1.0" />
+      </operator>
+      <connect from_op="Read Movie Ticket Items" from_port="output" to_port="example set input" to_op="Set Booking ID Role" />
+      <connect from_op="Set Booking ID Role" from_port="example set output" to_port="example set input" to_op="Numerical to Binominal" />
+      <connect from_op="Numerical to Binominal" from_port="example set output" to_port="example set" to_op="FP-Growth" />
+      <connect from_op="FP-Growth" from_port="frequent sets" to_port="item sets" to_op="Create Association Rules" />
+      <connect from_op="FP-Growth" from_port="example set" to_port="result 2" />
+      <connect from_op="Create Association Rules" from_port="rules" to_port="result 1" />
+      <portSpacing port="source_input 1" spacing="0" />
+      <portSpacing port="sink_result 1" spacing="18" />
+      <portSpacing port="sink_result 2" spacing="0" />
+      <portSpacing port="sink_result 3" spacing="0" />
+      <description align="left" color="yellow" colored="false" height="170" resized="true" width="710" x="34" y="210">Experiment 9: FP-Growth association mining for movie ticket bookings. Input is one row per booking. Booking_ID is assigned the id role. The numeric 0/1 item columns are converted to false/true before FP-Growth. Min support = 0.10; max itemset size = 4; minimum confidence = 0.40.</description>
+    </process>
+  </operator>
+</process>

@@ -1,0 +1,121 @@
+Booking_ID,Movie,Show,Seat,Payment,Popcorn,Drink
+B001,Love in Paris,Evening,Regular,Wallet,False,False
+B002,Sky Warriors,Morning,Regular,Card,True,True
+B003,Love in Paris,Evening,Premium,Wallet,True,True
+B004,Love in Paris,Matinee,Recliner,UPI,True,True
+B005,Mystery Files,Late Night,Premium,Card,False,False
+B006,Galaxy Quest,Evening,Premium,Card,True,True
+B007,Sky Warriors,Matinee,Regular,UPI,True,True
+B008,Laugh Out Loud,Matinee,Regular,Cash,True,True
+B009,Galaxy Quest,Evening,Premium,Cash,True,True
+B010,Laugh Out Loud,Late Night,Regular,UPI,True,True
+B011,Mystery Files,Late Night,Premium,Card,True,False
+B012,Laugh Out Loud,Matinee,Premium,UPI,True,False
+B013,Laugh Out Loud,Late Night,Regular,UPI,True,True
+B014,Laugh Out Loud,Evening,Regular,UPI,False,False
+B015,Sky Warriors,Morning,Premium,Card,False,True
+B016,Love in Paris,Evening,Premium,Cash,False,True
+B017,Laugh Out Loud,Evening,Premium,UPI,True,True
+B018,Galaxy Quest,Evening,Premium,Card,True,True
+B019,Mystery Files,Late Night,Recliner,UPI,True,False
+B020,Mystery Files,Evening,Regular,Wallet,False,True
+B021,Laugh Out Loud,Matinee,Premium,UPI,True,True
+B022,Love in Paris,Evening,Recliner,Card,True,True
+B023,Sky Warriors,Evening,Premium,UPI,True,True
+B024,Love in Paris,Late Night,Recliner,UPI,True,True
+B025,Sky Warriors,Late Night,Premium,UPI,False,False
+B026,Sky Warriors,Evening,Premium,UPI,True,True
+B027,Mystery Files,Evening,Premium,Wallet,True,True
+B028,Laugh Out Loud,Matinee,Regular,Wallet,True,False
+B029,Laugh Out Loud,Late Night,Premium,Cash,False,False
+B030,Sky Warriors,Evening,Premium,UPI,True,False
+B031,Galaxy Quest,Evening,Premium,Cash,False,False
+B032,Love in Paris,Evening,Recliner,Card,False,False
+B033,Sky Warriors,Evening,Recliner,UPI,False,True
+B034,Sky Warriors,Evening,Regular,UPI,False,True
+B035,Galaxy Quest,Matinee,Premium,Card,False,True
+B036,Love in Paris,Evening,Premium,UPI,True,True
+B037,Sky Warriors,Late Night,Recliner,UPI,True,True
+B038,Sky Warriors,Late Night,Premium,UPI,False,False
+B039,Mystery Files,Evening,Regular,Wallet,True,True
+B040,Mystery Files,Matinee,Regular,Card,True,True
+B041,Love in Paris,Evening,Regular,Card,False,False
+B042,Sky Warriors,Evening,Regular,Wallet,True,True
+B043,Love in Paris,Evening,Regular,UPI,False,False
+B044,Galaxy Quest,Evening,Regular,UPI,True,False
+B045,Laugh Out Loud,Late Night,Regular,UPI,True,True
+B046,Mystery Files,Evening,Regular,Wallet,False,False
+B047,Sky Warriors,Morning,Premium,UPI,False,False
+B048,Sky Warriors,Evening,Premium,UPI,False,False
+B049,Galaxy Quest,Evening,Premium,Wallet,True,True
+B050,Sky Warriors,Late Night,Recliner,UPI,True,True
+B051,Mystery Files,Late Night,Regular,Cash,True,False
+B052,Sky Warriors,Evening,Premium,UPI,True,True
+B053,Galaxy Quest,Matinee,Premium,UPI,False,False
+B054,Laugh Out Loud,Evening,Premium,UPI,False,True
+B055,Galaxy Quest,Evening,Premium,UPI,True,True
+B056,Sky Warriors,Evening,Recliner,Card,False,False
+B057,Sky Warriors,Morning,Premium,UPI,True,True
+B058,Laugh Out Loud,Matinee,Regular,Wallet,False,True
+B059,Sky Warriors,Evening,Premium,Wallet,True,True
+B060,Sky Warriors,Morning,Regular,UPI,False,True
+B061,Galaxy Quest,Matinee,Premium,Card,True,True
+B062,Galaxy Quest,Evening,Regular,UPI,True,False
+B063,Laugh Out Loud,Matinee,Premium,UPI,False,False
+B064,Mystery Files,Late Night,Recliner,Card,False,False
+B065,Mystery Files,Late Night,Premium,UPI,True,True
+B066,Laugh Out Loud,Evening,Premium,UPI,True,True
+B067,Sky Warriors,Evening,Regular,UPI,True,True
+B068,Sky Warriors,Evening,Premium,UPI,True,False
+B069,Galaxy Quest,Evening,Premium,UPI,True,True
+B070,Laugh Out Loud,Late Night,Premium,Wallet,False,False
+B071,Sky Warriors,Evening,Regular,UPI,True,True
+B072,Sky Warriors,Matinee,Premium,UPI,True,True
+B073,Galaxy Quest,Matinee,Premium,UPI,True,True
+B074,Galaxy Quest,Evening,Premium,Wallet,True,True
+B075,Sky Warriors,Late Night,Premium,Card,False,False
+B076,Mystery Files,Evening,Regular,UPI,True,True
+B077,Laugh Out Loud,Evening,Premium,UPI,True,True
+B078,Galaxy Quest,Late Night,Regular,UPI,True,True
+B079,Mystery Files,Late Night,Regular,Card,False,True
+B080,Laugh Out Loud,Evening,Regular,Cash,False,True
+B081,Laugh Out Loud,Matinee,Regular,Wallet,False,True
+B082,Mystery Files,Late Night,Premium,UPI,False,False
+B083,Galaxy Quest,Evening,Premium,UPI,True,True
+B084,Sky Warriors,Matinee,Recliner,UPI,True,True
+B085,Laugh Out Loud,Evening,Regular,UPI,False,True
+B086,Sky Warriors,Evening,Regular,Cash,True,True
+B087,Galaxy Quest,Evening,Premium,Card,False,True
+B088,Galaxy Quest,Evening,Premium,UPI,True,True
+B089,Love in Paris,Evening,Regular,UPI,True,True
+B090,Sky Warriors,Evening,Regular,UPI,True,True
+B091,Mystery Files,Evening,Regular,UPI,True,True
+B092,Sky Warriors,Evening,Recliner,Card,True,True
+B093,Mystery Files,Late Night,Premium,UPI,True,True
+B094,Mystery Files,Evening,Recliner,UPI,True,True
+B095,Sky Warriors,Evening,Premium,Cash,True,True
+B096,Galaxy Quest,Matinee,Regular,UPI,True,False
+B097,Mystery Files,Evening,Premium,Wallet,False,True
+B098,Galaxy Quest,Evening,Regular,UPI,True,True
+B099,Laugh Out Loud,Matinee,Premium,Card,True,True
+B100,Sky Warriors,Evening,Premium,Cash,True,True
+B101,Mystery Files,Late Night,Regular,UPI,True,True
+B102,Laugh Out Loud,Matinee,Premium,Card,False,False
+B103,Laugh Out Loud,Morning,Regular,UPI,True,True
+B104,Sky Warriors,Evening,Recliner,Cash,False,True
+B105,Galaxy Quest,Evening,Premium,Wallet,True,True
+B106,Love in Paris,Matinee,Premium,UPI,False,False
+B107,Galaxy Quest,Evening,Recliner,Wallet,True,True
+B108,Sky Warriors,Late Night,Premium,Card,False,False
+B109,Laugh Out Loud,Matinee,Regular,Wallet,True,True
+B110,Sky Warriors,Late Night,Premium,Card,True,False
+B111,Laugh Out Loud,Matinee,Premium,Card,True,False
+B112,Mystery Files,Matinee,Recliner,Card,False,False
+B113,Galaxy Quest,Late Night,Regular,Card,True,False
+B114,Galaxy Quest,Evening,Regular,Wallet,True,False
+B115,Galaxy Quest,Matinee,Regular,Card,False,False
+B116,Sky Warriors,Evening,Premium,Card,True,True
+B117,Galaxy Quest,Evening,Regular,Wallet,True,True
+B118,Laugh Out Loud,Evening,Premium,Wallet,False,False
+B119,Sky Warriors,Evening,Recliner,Wallet,True,True
+B120,Galaxy Quest,Matinee,Premium,UPI,True,False

@@ -1,0 +1,121 @@
+Booking_ID,Items
+B001,Movie=Love in Paris;Payment=Wallet;Seat=Regular;Show=Evening
+B002,Movie=Sky Warriors;Payment=Card;Seat=Regular;Show=Morning;Snack=Drink;Snack=Popcorn
+B003,Movie=Love in Paris;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B004,Movie=Love in Paris;Payment=UPI;Seat=Recliner;Show=Matinee;Snack=Drink;Snack=Popcorn
+B005,Movie=Mystery Files;Payment=Card;Seat=Premium;Show=Late Night
+B006,Movie=Galaxy Quest;Payment=Card;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B007,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Matinee;Snack=Drink;Snack=Popcorn
+B008,Movie=Laugh Out Loud;Payment=Cash;Seat=Regular;Show=Matinee;Snack=Drink;Snack=Popcorn
+B009,Movie=Galaxy Quest;Payment=Cash;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B010,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Late Night;Snack=Drink;Snack=Popcorn
+B011,Movie=Mystery Files;Payment=Card;Seat=Premium;Show=Late Night;Snack=Popcorn
+B012,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Matinee;Snack=Popcorn
+B013,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Late Night;Snack=Drink;Snack=Popcorn
+B014,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Evening
+B015,Movie=Sky Warriors;Payment=Card;Seat=Premium;Show=Morning;Snack=Drink
+B016,Movie=Love in Paris;Payment=Cash;Seat=Premium;Show=Evening;Snack=Drink
+B017,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B018,Movie=Galaxy Quest;Payment=Card;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B019,Movie=Mystery Files;Payment=UPI;Seat=Recliner;Show=Late Night;Snack=Popcorn
+B020,Movie=Mystery Files;Payment=Wallet;Seat=Regular;Show=Evening;Snack=Drink
+B021,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Matinee;Snack=Drink;Snack=Popcorn
+B022,Movie=Love in Paris;Payment=Card;Seat=Recliner;Show=Evening;Snack=Drink;Snack=Popcorn
+B023,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B024,Movie=Love in Paris;Payment=UPI;Seat=Recliner;Show=Late Night;Snack=Drink;Snack=Popcorn
+B025,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Late Night
+B026,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B027,Movie=Mystery Files;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B028,Movie=Laugh Out Loud;Payment=Wallet;Seat=Regular;Show=Matinee;Snack=Popcorn
+B029,Movie=Laugh Out Loud;Payment=Cash;Seat=Premium;Show=Late Night
+B030,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening;Snack=Popcorn
+B031,Movie=Galaxy Quest;Payment=Cash;Seat=Premium;Show=Evening
+B032,Movie=Love in Paris;Payment=Card;Seat=Recliner;Show=Evening
+B033,Movie=Sky Warriors;Payment=UPI;Seat=Recliner;Show=Evening;Snack=Drink
+B034,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink
+B035,Movie=Galaxy Quest;Payment=Card;Seat=Premium;Show=Matinee;Snack=Drink
+B036,Movie=Love in Paris;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B037,Movie=Sky Warriors;Payment=UPI;Seat=Recliner;Show=Late Night;Snack=Drink;Snack=Popcorn
+B038,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Late Night
+B039,Movie=Mystery Files;Payment=Wallet;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B040,Movie=Mystery Files;Payment=Card;Seat=Regular;Show=Matinee;Snack=Drink;Snack=Popcorn
+B041,Movie=Love in Paris;Payment=Card;Seat=Regular;Show=Evening
+B042,Movie=Sky Warriors;Payment=Wallet;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B043,Movie=Love in Paris;Payment=UPI;Seat=Regular;Show=Evening
+B044,Movie=Galaxy Quest;Payment=UPI;Seat=Regular;Show=Evening;Snack=Popcorn
+B045,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Late Night;Snack=Drink;Snack=Popcorn
+B046,Movie=Mystery Files;Payment=Wallet;Seat=Regular;Show=Evening
+B047,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Morning
+B048,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening
+B049,Movie=Galaxy Quest;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B050,Movie=Sky Warriors;Payment=UPI;Seat=Recliner;Show=Late Night;Snack=Drink;Snack=Popcorn
+B051,Movie=Mystery Files;Payment=Cash;Seat=Regular;Show=Late Night;Snack=Popcorn
+B052,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B053,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Matinee
+B054,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink
+B055,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B056,Movie=Sky Warriors;Payment=Card;Seat=Recliner;Show=Evening
+B057,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Morning;Snack=Drink;Snack=Popcorn
+B058,Movie=Laugh Out Loud;Payment=Wallet;Seat=Regular;Show=Matinee;Snack=Drink
+B059,Movie=Sky Warriors;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B060,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Morning;Snack=Drink
+B061,Movie=Galaxy Quest;Payment=Card;Seat=Premium;Show=Matinee;Snack=Drink;Snack=Popcorn
+B062,Movie=Galaxy Quest;Payment=UPI;Seat=Regular;Show=Evening;Snack=Popcorn
+B063,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Matinee
+B064,Movie=Mystery Files;Payment=Card;Seat=Recliner;Show=Late Night
+B065,Movie=Mystery Files;Payment=UPI;Seat=Premium;Show=Late Night;Snack=Drink;Snack=Popcorn
+B066,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B067,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B068,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Evening;Snack=Popcorn
+B069,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B070,Movie=Laugh Out Loud;Payment=Wallet;Seat=Premium;Show=Late Night
+B071,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B072,Movie=Sky Warriors;Payment=UPI;Seat=Premium;Show=Matinee;Snack=Drink;Snack=Popcorn
+B073,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Matinee;Snack=Drink;Snack=Popcorn
+B074,Movie=Galaxy Quest;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B075,Movie=Sky Warriors;Payment=Card;Seat=Premium;Show=Late Night
+B076,Movie=Mystery Files;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B077,Movie=Laugh Out Loud;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B078,Movie=Galaxy Quest;Payment=UPI;Seat=Regular;Show=Late Night;Snack=Drink;Snack=Popcorn
+B079,Movie=Mystery Files;Payment=Card;Seat=Regular;Show=Late Night;Snack=Drink
+B080,Movie=Laugh Out Loud;Payment=Cash;Seat=Regular;Show=Evening;Snack=Drink
+B081,Movie=Laugh Out Loud;Payment=Wallet;Seat=Regular;Show=Matinee;Snack=Drink
+B082,Movie=Mystery Files;Payment=UPI;Seat=Premium;Show=Late Night
+B083,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B084,Movie=Sky Warriors;Payment=UPI;Seat=Recliner;Show=Matinee;Snack=Drink;Snack=Popcorn
+B085,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink
+B086,Movie=Sky Warriors;Payment=Cash;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B087,Movie=Galaxy Quest;Payment=Card;Seat=Premium;Show=Evening;Snack=Drink
+B088,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B089,Movie=Love in Paris;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B090,Movie=Sky Warriors;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B091,Movie=Mystery Files;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B092,Movie=Sky Warriors;Payment=Card;Seat=Recliner;Show=Evening;Snack=Drink;Snack=Popcorn
+B093,Movie=Mystery Files;Payment=UPI;Seat=Premium;Show=Late Night;Snack=Drink;Snack=Popcorn
+B094,Movie=Mystery Files;Payment=UPI;Seat=Recliner;Show=Evening;Snack=Drink;Snack=Popcorn
+B095,Movie=Sky Warriors;Payment=Cash;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B096,Movie=Galaxy Quest;Payment=UPI;Seat=Regular;Show=Matinee;Snack=Popcorn
+B097,Movie=Mystery Files;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink
+B098,Movie=Galaxy Quest;Payment=UPI;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B099,Movie=Laugh Out Loud;Payment=Card;Seat=Premium;Show=Matinee;Snack=Drink;Snack=Popcorn
+B100,Movie=Sky Warriors;Payment=Cash;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B101,Movie=Mystery Files;Payment=UPI;Seat=Regular;Show=Late Night;Snack=Drink;Snack=Popcorn
+B102,Movie=Laugh Out Loud;Payment=Card;Seat=Premium;Show=Matinee
+B103,Movie=Laugh Out Loud;Payment=UPI;Seat=Regular;Show=Morning;Snack=Drink;Snack=Popcorn
+B104,Movie=Sky Warriors;Payment=Cash;Seat=Recliner;Show=Evening;Snack=Drink
+B105,Movie=Galaxy Quest;Payment=Wallet;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B106,Movie=Love in Paris;Payment=UPI;Seat=Premium;Show=Matinee
+B107,Movie=Galaxy Quest;Payment=Wallet;Seat=Recliner;Show=Evening;Snack=Drink;Snack=Popcorn
+B108,Movie=Sky Warriors;Payment=Card;Seat=Premium;Show=Late Night
+B109,Movie=Laugh Out Loud;Payment=Wallet;Seat=Regular;Show=Matinee;Snack=Drink;Snack=Popcorn
+B110,Movie=Sky Warriors;Payment=Card;Seat=Premium;Show=Late Night;Snack=Popcorn
+B111,Movie=Laugh Out Loud;Payment=Card;Seat=Premium;Show=Matinee;Snack=Popcorn
+B112,Movie=Mystery Files;Payment=Card;Seat=Recliner;Show=Matinee
+B113,Movie=Galaxy Quest;Payment=Card;Seat=Regular;Show=Late Night;Snack=Popcorn
+B114,Movie=Galaxy Quest;Payment=Wallet;Seat=Regular;Show=Evening;Snack=Popcorn
+B115,Movie=Galaxy Quest;Payment=Card;Seat=Regular;Show=Matinee
+B116,Movie=Sky Warriors;Payment=Card;Seat=Premium;Show=Evening;Snack=Drink;Snack=Popcorn
+B117,Movie=Galaxy Quest;Payment=Wallet;Seat=Regular;Show=Evening;Snack=Drink;Snack=Popcorn
+B118,Movie=Laugh Out Loud;Payment=Wallet;Seat=Premium;Show=Evening
+B119,Movie=Sky Warriors;Payment=Wallet;Seat=Recliner;Show=Evening;Snack=Drink;Snack=Popcorn
+B120,Movie=Galaxy Quest;Payment=UPI;Seat=Premium;Show=Matinee;Snack=Popcorn
